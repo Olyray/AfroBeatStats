@@ -3,7 +3,34 @@ body {
     margin: 20px;
 }
 
+header {
+    background: black;
+    height: 70px;
+    width: 100%;
+}
+
 h1 {
+    text-align: left;
+    color: white;
+    padding: 15px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  
+th {
+    background-color: #196f9f;
+    color: white;
+  }
+
+h2{
     text-align: center;
 }
 

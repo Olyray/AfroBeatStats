@@ -5,11 +5,25 @@
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <body>
-    <h1>Top Ten Afrobeats Artists</h1>
-    <ol>
-        {% for artist in artists %}
-        <li>{{ artist.name }}</li>
-        {% endfor %}
-    </ol>
+    <header>
+        <div><h1>AfroBeatStats</h1></div>
+    </header>
+    <h2>Top Ten Afrobeats Artists</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Artist</th>
+                <th>Popularity</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for artist in artists %}
+            <tr>
+                <td>{{ artist.name }}</td>
+                <td>{{ artist.popularity }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
 </body>
 </html>
