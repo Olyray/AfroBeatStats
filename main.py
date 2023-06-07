@@ -73,7 +73,7 @@ if __name__ == "__main__":
             artists = sorted(artists, key=lambda x: x['popularity'], reverse=True)
 
             # Select the top ten artists
-            top_ten_artists = artists[:10]
+            top_ten_artists = artists[:50]
 
             # Prepare the data to write to the JSON file
             data_to_write = []
