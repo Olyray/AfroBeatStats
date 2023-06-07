@@ -80,7 +80,8 @@ if __name__ == "__main__":
             for artist in top_ten_artists:
                 artist_data = {
                     'name': artist['name'],
-                    'popularity': artist['popularity']
+                    'popularity': artist['popularity'],
+                    'image_url': artist['images'][0]['url']
                 }
                 data_to_write.append(artist_data)
 

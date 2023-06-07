@@ -1,42 +1,52 @@
 [
     {
         "name": "Rema",
-        "popularity": 81
+        "popularity": 81,
+        "image_url": "https://i.scdn.co/image/ab6761610000e5ebb193cbc1a9e1d99437b20364"
     },
     {
         "name": "Burna Boy",
-        "popularity": 79
+        "popularity": 79,
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb2d405f4858ce3cd52d409c98"
     },
     {
         "name": "Wizkid",
-        "popularity": 77
+        "popularity": 77,
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb9050b61368975fda051cdc06"
     },
     {
         "name": "Libianca",
-        "popularity": 75
+        "popularity": 75,
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb8c079aacb406ccea5708a0fc"
     },
     {
         "name": "Ayra Starr",
-        "popularity": 75
+        "popularity": 75,
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb0f743bef043340ca5aac2205"
     },
     {
         "name": "Tems",
-        "popularity": 74
+        "popularity": 74,
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb1d3357f91de16a31b194ed32"
     },
     {
         "name": "Davido",
-        "popularity": 73
+        "popularity": 73,
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb1ae40d4e47750c0ac367f993"
     },
     {
         "name": "Omah Lay",
-        "popularity": 73
+        "popularity": 73,
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb33d04fe6260fff45104911f3"
     },
     {
         "name": "Fireboy DML",
-        "popularity": 71
+        "popularity": 71,
+        "image_url": "https://i.scdn.co/image/ab6761610000e5eb883c0730c0ea767039cec6db"
     },
     {
         "name": "Asake",
-        "popularity": 71
+        "popularity": 71,
+        "image_url": "https://i.scdn.co/image/ab6761610000e5ebb17a2dfb94026f0b6b09d524"
     }
 ]
