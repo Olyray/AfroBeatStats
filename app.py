@@ -13,11 +13,11 @@ def index():
     # Render the modified template with the loaded data
     return render_template('topartists.html', artists=artists)
 
-@app.route('/about', strict_slashes=False)
+@app.route('/afrobeatstats/about', strict_slashes=False)
 def about():
     return render_template('about.html')
 
-@app.route('/contact', strict_slashes=False)
+@app.route('/afrobeatstats/contact', strict_slashes=False)
 def contact():
     return render_template('contact.html')
 if __name__ == '__main__':
