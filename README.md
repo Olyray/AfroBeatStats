@@ -1,7 +1,7 @@
 
 ## About
 
-AfroBeatStats is a simple webpage that tracks the top Nigerian artists based on the Spotify API.
+AfroBeatStats is a simple webpage that tracks the top Nigerian artists based on the Spotify API
 
 
 ### Built With
